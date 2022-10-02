@@ -18,26 +18,22 @@ organizations:
     url: https://aeroastro.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+## Education to show in About widget
+# education:
+#   courses:
+#     - course: SM and Ph.D. in Aerospace and Astronautics
+#       institution: Massachusetts Institute of Technology
+#       year: 2022-
+#     - course: BSc in Physics
+#       institution: Peking University
+#       year: 2017-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,18 +43,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mingxiny
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 1st-year graduate student at [REALM Lab](https://aeroastro.mit.edu/realm/) in [MIT](https://www.mit.edu/), advised by Prof. [Chuchu Fan](https://aeroastro.mit.edu/people/chuchu-fan/). My research interests lie in robotics and artificial intelligence. And my goal is to build reliable and intelligent robot!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining MIT, I received my Bachelor's Degree from [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I was fortunate to work with Prof. [Lin Shao](https://linsats.github.io/), Prof. [Hao Dong](https://zsdonghao.github.io/), Dr. [Adam Kortylewski](https://generativevision.mpi-inf.mpg.de/) and Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} (last updated Apr 2022).
